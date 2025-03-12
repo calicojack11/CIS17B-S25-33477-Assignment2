@@ -1,0 +1,22 @@
+﻿  Library.cpp
+C:\Users\Shadow\Desktop\School\CIS-17B\LibraryManagementSystem\LibraryManagementSystem\User.h(36,12): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  (compiling source file 'Library.cpp')
+  
+C:\Users\Shadow\Desktop\School\CIS-17B\LibraryManagementSystem\LibraryManagementSystem\Library.h(94,12): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  (compiling source file 'Library.cpp')
+  
+C:\Users\Shadow\Desktop\School\CIS-17B\LibraryManagementSystem\LibraryManagementSystem\Library.h(81,8): warning C4101: 'answer': unreferenced local variable
+  (compiling source file 'Library.cpp')
+  
+  LibrarySystem.cpp
+C:\Users\Shadow\Desktop\School\CIS-17B\LibraryManagementSystem\LibraryManagementSystem\User.h(36,12): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  (compiling source file 'LibrarySystem.cpp')
+  
+C:\Users\Shadow\Desktop\School\CIS-17B\LibraryManagementSystem\LibraryManagementSystem\Library.h(94,12): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  (compiling source file 'LibrarySystem.cpp')
+  
+C:\Users\Shadow\Desktop\School\CIS-17B\LibraryManagementSystem\LibraryManagementSystem\Library.h(81,8): warning C4101: 'answer': unreferenced local variable
+  (compiling source file 'LibrarySystem.cpp')
+  
+  Generating Code...
+  LibraryManagementSystem.vcxproj -> C:\Users\Shadow\Desktop\School\CIS-17B\LibraryManagementSystem\x64\Debug\LibraryManagementSystem.exe
